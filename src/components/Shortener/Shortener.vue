@@ -29,7 +29,7 @@ export default {
   },
   methods: {
     shortenUrl() {
-      const accessToken = "e29e4ccb8786eb3ea4afa909ad234993657c3b1f";
+      const accessToken = "";
       const apiUrl = "https://api-ssl.bitly.com/v4/shorten";
 
       axios
